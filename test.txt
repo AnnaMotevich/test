@@ -1,4 +1,8 @@
 test1
 Hello, Anya!
 new line
+<<<<<<< HEAD
 another line
+=======
+test line
+>>>>>>> dff7f3e6fd11ccf2e0d233a04b6c63a3038f4642
