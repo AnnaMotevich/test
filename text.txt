@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Test line 1
 222
+=======
+Test line 2
+Test line 3
+>>>>>>> aebc6d56b97577f9f481f528ccdf68fe9ec23ac3
